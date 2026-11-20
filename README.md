@@ -358,6 +358,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://api.iconify.design/mdi:database-search.svg?color=%2338BDF8" height="14"/> [EU & US OpenData](https://github.com/yannabadie/eu-us-opendata-mcp) - Zero-dependency, zero-API-key Python MCP server for French SIRENE/RNE companies, EU TED v3 public tenders, NIH ClinicalTrials.gov v2, and U.S. CMS NPI healthcare providers
 
 <br />
 
